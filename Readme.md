@@ -1,7 +1,7 @@
 # Mardené de Villiers
-Sales Support Technician | 
-Portfolio: [MardenedeV.OnlineCV.github.io](dieniemdv.github.io/Online_CV/)  
-LinkedIn: (www.linkedin.com/in/mardené-de-villiers-53111b5b)
+Sales Support Technician |    
+LinkedIn: (www.linkedin.com/in/mardené-de-villiers)    
+Email: mcdevilliers18@gmail.com
 
 ## Summary
 Final year BSc IT student studying at the North-West University. Government and International working experience as a Port Meteorological Officer at the South African Weather Service. Currently work as a Sales Support Technician at the largest polyethylene and polypropylene company in the southern hemisphere.  
@@ -29,9 +29,9 @@ Meteorological Technician
 - Aviation Weather Observations, Special Weather Reports, Weather Station Inspection and Maintenance
 
 ## Education
-**Degree** | North-West University | Estimated end of 2024 completion | Bachelor of Science in Information Technology
-**Course** | South African Weather Service | 2013 | National Certificate: Weather Observations (NQF level: 5)
-**Course** | RMIT University | Estimated October 2024 completion | SalesForce Administrator
+**Degree** | North-West University | Estimated end of 2024 completion | Bachelor of Science in Information Technology  
+**Course** | South African Weather Service | 2013 | National Certificate: Weather Observations (NQF level: 5)  
+**Course** | RMIT University | Estimated October 2024 completion | SalesForce Administrator  
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
