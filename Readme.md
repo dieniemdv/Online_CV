@@ -29,14 +29,11 @@ Meteorological Technician
 - Aviation Weather Observations, Special Weather Reports, Weather Station Inspection and Maintenance
 
 ## Education
-**Degree** | North-West University | Estimated end of 2024 completion
-Bachelor of Science in Information Technology
+**Degree** | North-West University | Estimated end of 2024 completion | Bachelor of Science in Information Technology
 
-**Course** | South African Weather Service | 2013
-National Certificate: Weather Observations (NQF level: 5)
+**Course** | South African Weather Service | 2013 | National Certificate: Weather Observations (NQF level: 5)
 
-**Course** | RMIT University | Estimated October 2024 completion
-SalesForce Administrator
+**Course** | RMIT University | Estimated October 2024 completion | SalesForce Administrator
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
