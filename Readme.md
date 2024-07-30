@@ -1,5 +1,5 @@
 # Mardené de Villiers
-Sales Support Technician |    
+Sales Support Technician          
 LinkedIn: (www.linkedin.com/in/mardené-de-villiers)    
 Email: mcdevilliers18@gmail.com
 
