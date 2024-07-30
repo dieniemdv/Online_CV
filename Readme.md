@@ -1,7 +1,7 @@
 # Mardené de Villiers
 Sales Support Technician | 
 Portfolio: [MardenedeV.OnlineCV.github.io](dieniemdv.github.io/Online_CV/)  
-LinkedIn: [MdV.Linkedin.com](www.linkedin.com/in/mardené-de-villiers-53111b5b)
+LinkedIn: (www.linkedin.com/in/mardené-de-villiers-53111b5b)
 
 ## Summary
 Final year BSc IT student studying at the North-West University. Government and International working experience as a Port Meteorological Officer at the South African Weather Service. Currently work as a Sales Support Technician at the largest polyethylene and polypropylene company in the southern hemisphere.  
