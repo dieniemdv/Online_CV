@@ -30,9 +30,7 @@ Meteorological Technician
 
 ## Education
 **Degree** | North-West University | Estimated end of 2024 completion | Bachelor of Science in Information Technology
-
 **Course** | South African Weather Service | 2013 | National Certificate: Weather Observations (NQF level: 5)
-
 **Course** | RMIT University | Estimated October 2024 completion | SalesForce Administrator
 
 ## Projects
