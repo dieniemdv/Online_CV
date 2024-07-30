@@ -1,6 +1,6 @@
 title: Mardené de Villiers  # You can add your name here
 
-logo: image.png width="50" height="50" # Use a relative path to logo image 
+<logo: image.png width="50" height="50"> # Use a relative path to logo image 
 
 description: Detail, data and science enthusiast. # Fix hyphenation 
 
