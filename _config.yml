@@ -5,7 +5,9 @@ logo: image.png # Use a relative path to logo image
 
 description: Detail, data and science enthusiast. # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+email: mcdevilliers@gmail.com
+
+darkmode: true
 
 theme: jekyll-theme-minimal 
 
